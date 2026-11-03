@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "notes": "nhentai 登录修复；nhentai 列表语言与发布时间修复；新增应用内检查更新、下载与安装。",
+  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.1/PicaComic-0.0.1-arm64-v8a.apk",
+  "apk_urls": {
+    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.1/PicaComic-0.0.1-arm64-v8a.apk"
+  },
+  "sha256": "52b95500c9fd2299c0c06e7b877e5f80b2e301a241d121c9697adb9ed178cb87",
+  "apk_sha256": {
+    "arm64-v8a": "52b95500c9fd2299c0c06e7b877e5f80b2e301a241d121c9697adb9ed178cb87"
+  },
+  "size": 31637038,
+  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.1",
+  "published_at": "2026-11-03T16:25:00+08:00"
+}
