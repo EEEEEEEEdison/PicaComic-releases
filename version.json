@@ -5,9 +5,9 @@
   "apk_urls": {
     "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.1/PicaComic-0.0.1-arm64-v8a.apk"
   },
-  "sha256": "52b95500c9fd2299c0c06e7b877e5f80b2e301a241d121c9697adb9ed178cb87",
+  "sha256": "c3fb106af8d36d428ba51a75a4f8081fa84dd7db9f00bc9f0cfea7e4a5ad4bce",
   "apk_sha256": {
-    "arm64-v8a": "52b95500c9fd2299c0c06e7b877e5f80b2e301a241d121c9697adb9ed178cb87"
+    "arm64-v8a": "c3fb106af8d36d428ba51a75a4f8081fa84dd7db9f00bc9f0cfea7e4a5ad4bce"
   },
   "size": 31637038,
   "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.1",
