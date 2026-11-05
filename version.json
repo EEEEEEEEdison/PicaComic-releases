@@ -1,15 +1,15 @@
 {
-  "version": "0.0.1",
-  "notes": "nhentai 登录修复；nhentai 列表语言与发布时间修复；新增应用内检查更新、下载与安装。",
-  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.1/PicaComic-0.0.1-arm64-v8a.apk",
+  "version": "0.0.2",
+  "notes": "nhentai 收藏改用 v2 API，修复登录后无法收藏、取消收藏；修复收藏状态与收藏列表分页；跨域重定向不再携带 Authorization。仅提供 arm64-v8a APK。旧登录态如果缺少 access_token，请退出后重新登录。",
+  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.2/PicaComic-0.0.2-arm64-v8a.apk",
   "apk_urls": {
-    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.1/PicaComic-0.0.1-arm64-v8a.apk"
+    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.2/PicaComic-0.0.2-arm64-v8a.apk"
   },
-  "sha256": "8ce932ebcf8445d305fcd065716d26fbea8de53cfe4456370b741cd74242ba76",
+  "sha256": "a589ad23513a05ebee9eb205e3f1e8e69ffffec6925b2a4b953995c7f640db97",
   "apk_sha256": {
-    "arm64-v8a": "8ce932ebcf8445d305fcd065716d26fbea8de53cfe4456370b741cd74242ba76"
+    "arm64-v8a": "a589ad23513a05ebee9eb205e3f1e8e69ffffec6925b2a4b953995c7f640db97"
   },
   "size": 31637042,
-  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.1",
-  "published_at": "2026-11-03T16:25:00+08:00"
+  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.2",
+  "published_at": "2026-11-05T08:11:30+08:00"
 }
