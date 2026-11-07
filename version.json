@@ -1,15 +1,15 @@
 {
-  "version": "0.0.2",
-  "notes": "nhentai 收藏改用 v2 API，修复登录后无法收藏、取消收藏；修复收藏状态与收藏列表分页；跨域重定向不再携带 Authorization。仅提供 arm64-v8a APK。旧登录态如果缺少 access_token，请退出后重新登录。",
-  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.2/PicaComic-0.0.2-arm64-v8a.apk",
+  "version": "0.0.3",
+  "notes": "修复 nhentai 首页遇到 Cloudflare 验证时只显示 Retry、无法继续验证的问题；现在可打开验证页并保存 cf_clearance；改进验证完成检测。仅提供 arm64-v8a APK。",
+  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.3/PicaComic-0.0.3-arm64-v8a.apk",
   "apk_urls": {
-    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.2/PicaComic-0.0.2-arm64-v8a.apk"
+    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.3/PicaComic-0.0.3-arm64-v8a.apk"
   },
-  "sha256": "a747f10160a5f9972aa0f0b8416f045104aa79595a53210085fa2ffda3251ab2",
+  "sha256": "2ccb8d14178f47a0cad885aca52a868a6a6fa2a0d1de57999b7bb84ed5e5a43d",
   "apk_sha256": {
-    "arm64-v8a": "a747f10160a5f9972aa0f0b8416f045104aa79595a53210085fa2ffda3251ab2"
+    "arm64-v8a": "2ccb8d14178f47a0cad885aca52a868a6a6fa2a0d1de57999b7bb84ed5e5a43d"
   },
   "size": 31637042,
-  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.2",
-  "published_at": "2026-11-05T00:12:33Z"
+  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.3",
+  "published_at": "2026-11-07T21:24:37+08:00"
 }
