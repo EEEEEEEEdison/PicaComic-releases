@@ -1,15 +1,14 @@
 {
-  "version": "0.0.3",
-  "notes": "修复 nhentai 首页遇到 Cloudflare 验证时只显示 Retry、无法继续验证的问题；现在可打开验证页并保存 cf_clearance；改进验证完成检测。仅提供 arm64-v8a APK。",
-  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.3/PicaComic-0.0.3-arm64-v8a.apk",
+  "version": "0.0.4",
+  "notes": "修复 nhentai 点击“继续”后 Cloudflare 验证页秒退的问题。等待正常网页加载完成后再保存 Cookie 并返回；防止多个回调重复关闭页面；取消验证后不再自动重试。仅提供 arm64-v8a APK。",
+  "apk_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.4/PicaComic-0.0.4-arm64-v8a.apk",
   "apk_urls": {
-    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.3/PicaComic-0.0.3-arm64-v8a.apk"
+    "arm64-v8a": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/download/v0.0.4/PicaComic-0.0.4-arm64-v8a.apk"
   },
-  "sha256": "2ccb8d14178f47a0cad885aca52a868a6a6fa2a0d1de57999b7bb84ed5e5a43d",
+  "sha256": "a0e16bac516e8a71caa45627499fcd92c8f053584fb8278e7b52b4960b089da8",
   "apk_sha256": {
-    "arm64-v8a": "2ccb8d14178f47a0cad885aca52a868a6a6fa2a0d1de57999b7bb84ed5e5a43d"
+    "arm64-v8a": "a0e16bac516e8a71caa45627499fcd92c8f053584fb8278e7b52b4960b089da8"
   },
   "size": 31637042,
-  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.3",
-  "published_at": "2026-11-07T21:24:37+08:00"
+  "page_url": "https://github.com/EEEEEEEEdison/PicaComic-releases/releases/tag/v0.0.4"
 }
